@@ -82,7 +82,7 @@ This project is built on top of the following main technologies:
 - **PyPDF / PyPDF2** – PDF parsing and text extraction  
 
 <p align="center">
-  <img src="https://images.seeklogo.com/logo-png/52/1/langchain-logo-png_seeklogo-528369.png" alt="LangChain" width="120"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGGDRzWjTYrD5HSvHziGN6t6UcVDZVIwq2rw&s" alt="LangChain" width="120"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="120"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR23iOonB187tJq9_-Zo4Vt2I8rjvnFwYd-Eg&s" alt="Sentence Transformers" width="120"/>
   <img src="https://daxg39y63pxwu.cloudfront.net/images/blog/faiss-vector-database/FAISS_Vector_Database.webp" alt="FAISS" width="120"/>
