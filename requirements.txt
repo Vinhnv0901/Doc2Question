@@ -19,4 +19,4 @@ langchain-huggingface
 bitsandbytes
 accelerate
 sentence-transformers
-# -e .
+-e .
