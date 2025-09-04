@@ -12,4 +12,11 @@ python-multipart
 PyPDF2
 faiss-cpu
 python-dotenv
--e .
+chromadb
+huggingface_hub
+transformers
+langchain-huggingface
+bitsandbytes
+accelerate
+sentence-transformers
+# -e .
